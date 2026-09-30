@@ -16,7 +16,7 @@ Natura 2000 is a European network of protected core breeding and resting sites f
 
 ### Technical Report (PDF)
 You can read the comprehensive analysis, methodology, and conclusions of the study in the official PDF report:
-👉 [**Read the Full Technical Report Here (English)**](./Natura-2000.pdf)
+👉 <a href="./Natura 2000.pdf">Full Technical Report Here</a>
 
 ---
 
@@ -29,4 +29,5 @@ You can read the comprehensive analysis, methodology, and conclusions of the stu
 
 ### Τεχνική Έκθεση
 Μπορείτε να διαβάσετε την αναλυτική παρουσίαση και τα συμπεράσματα της μελέτης σε μορφή PDF:
-👉 [**Διαβάστε την πλήρη τεχνική έκθεση σε PDF εδώ (Ελληνικά)**](./κειμενο νατουρα 2000.pdf)
+👉 <a href="./κειμενο νατουρα 2000.pdf">Διαβάστε την πλήρη τεχνική έκθεση σε PDF εδώ</a>
+
